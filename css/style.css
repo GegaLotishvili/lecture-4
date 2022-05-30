@@ -61,8 +61,15 @@ article {
 }
 
 .article-h3 {
+	font-family: "BPG Nino Mtavruli", sans-serif;
 	font-size: 20px;
+	font-style: italic;
+	font-weight: 700;
+
+	color: royalblue;
+
 	margin-bottom: 16px;
+
 }
 
 .article-img {
