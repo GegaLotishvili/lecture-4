@@ -108,8 +108,70 @@ footer {
 
 }
 
+.lorem-p {
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	font-weight: 400;
+	font-style: italic;
+}
 
 /* end of first page footer styling */
+
+.container {
+	width: 1170px;
+	margin: 0 auto;
+}
+
+.h3-features {
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+	font-weight: 400;
+	margin-bottom: 30px;
+}
+
+.card-h4 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 22px;
+	font-weight: 400;
+	color: #3D58A6;
+	margin-bottom: 20px;
+}
+
+.card-left, .card-right {
+	height: 225px;
+	width: 560px;
+	background-color: #F2F2F2;
+	padding: 15px 15px 40px 20px;
+	display: inline-block;
+}
+
+.card-left {
+	margin-right: 30px;
+}
+
+.card-img {
+	vertical-align: top;
+	margin-right: 60px;
+}
+
+.card-p {
+	width: 355px;
+	display: inline-block;
+	vertical-align: top;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	font-weight: 400;
+	color: #333333;
+}
+
+
+
+
+
+
+
+
+
 
 
 
